@@ -1,4 +1,4 @@
-BayesianHierarchicalModeling
+Bayesian Hierarchical Modeling
 ============================
 
 A project completed on bayesian hierarchical modeling on astronomical data for Statistics 145 (Bayesian Statistical Inference).
